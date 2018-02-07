@@ -1,0 +1,13 @@
+
+*.pdb
+*.ilk
+*.exe
+*.tlog
+*.obj
+*.idb
+*.ipch
+*.db
+c++primer/.vs/c++primer/v15/.suo
+c++primer/.vs/c++primer/v14/.suo
+*.user
+*.log
